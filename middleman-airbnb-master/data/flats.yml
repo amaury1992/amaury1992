@@ -1,0 +1,18 @@
+seb:
+  name: Sebastien's home
+  description: Charming room in Montmartre
+  owner_picture: seb.jpg
+  city: "Paris, France"
+  picture: background-paris.jpg
+anne:
+  name: Anne's home
+  description: Lovely house
+  owner_picture: anne.jpg
+  city: "Brussels, Belgium"
+  picture: background-brussels.jpeg
+romain:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  owner_picture: romain.jpeg
+  city: "London, UK"
+  picture: background-london.jpg
